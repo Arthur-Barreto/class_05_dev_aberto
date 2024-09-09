@@ -1,5 +1,7 @@
+babel==2.16.0
 certifi==2024.8.30
 charset-normalizer==3.3.2
+dev-aberto-arthurmsb==0.1
 idna==3.8
 requests==2.32.3
 urllib3==2.2.2
