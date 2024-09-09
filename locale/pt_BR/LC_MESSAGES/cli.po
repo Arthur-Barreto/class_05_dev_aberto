@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-09-09 14:54-0300\n"
-"PO-Revision-Date: 2024-09-09 14:54-0300\n"
+"POT-Creation-Date: 2024-09-09 15:16-0300\n"
+"PO-Revision-Date: 2024-09-09 15:16-0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: pt_BR\n"
 "Language-Team: pt_BR <LL@li.org>\n"
@@ -24,9 +24,8 @@ msgstr "Coloque o seu nome: "
 
 #: cli.py:21
 msgid "Hello {}"
-msgstr "Olá"
+msgstr "Olá {}"
 
-#: scripts/hello.py:13
+#: build/scripts-3.10/hello.py:13 env/bin/hello.py:13 scripts/hello.py:26
 msgid "Último commit feito em: {} por {}"
 msgstr "Last commit made on: {} by {}"
-
